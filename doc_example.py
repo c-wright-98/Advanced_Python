@@ -33,7 +33,7 @@ by users using the python help in the terminal
 '''
 python has a inbuilt function known as pydoc
 allowing you to print out the information from the files,
-the document name and the doc strings that would be included 
+the document name and the doc strings that would be included
 as well as the file path
 
     python -m pydoc -w -doc_example
